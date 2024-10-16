@@ -3,8 +3,6 @@
 
 using namespace std;
 
-// Include class definitions here
-
 int main() {
 
     Athlete sport(72, 140, 'M');
